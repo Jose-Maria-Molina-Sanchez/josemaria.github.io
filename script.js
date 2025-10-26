@@ -2,7 +2,8 @@ document.addEventListener('DOMContentLoaded', function() {
     // Botón Descargar CV - enlace al archivo PDF en la carpeta del proyecto
     document.getElementById('downloadCV').addEventListener('click', function(e) {
         e.preventDefault();
-        window.location.href = 'Jose_Maria_Molina_Sanchez.pdf';
+        window.location.href = '';
+        window.open('documents/Jose_Maria_Molina_Sanchez.pdf');
     });
 
     // Botón Github - enlace a la página de GitHub especificada

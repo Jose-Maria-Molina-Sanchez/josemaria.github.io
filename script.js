@@ -8,7 +8,7 @@ document.addEventListener('DOMContentLoaded', function() {
     // Botón Github - enlace a la página de GitHub especificada
     document.getElementById('github').addEventListener('click', function(e) {
         e.preventDefault();
-        window.open('https://github.com/Jose-Maria-Molina-Sanchez', '_blank');
+        window.open('https://github.com/Jose-Maria-Molina-Sanchez');
     });
 
     // Botón Inicio - enlace a index.html

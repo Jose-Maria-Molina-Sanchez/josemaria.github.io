@@ -54,8 +54,8 @@ header {
 }
 
 .profile-image {
-    width: 414px;
-    height: 600px;
+    width: 335px;
+    height: 560px;
     border-radius: 15px;
     overflow: hidden;
     box-shadow: 0 4px 15px rgba(169, 188, 233, 0.1);
